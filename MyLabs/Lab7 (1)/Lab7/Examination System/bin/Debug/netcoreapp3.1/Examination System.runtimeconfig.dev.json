@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\eslamia\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\eslamia\\.nuget\\packages"
+    ]
+  }
+}
